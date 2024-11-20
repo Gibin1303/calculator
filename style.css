@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.display{
+    margin-right: 100px;
+    padding: 10px;
+
+}
+
+.calculator{
+    background-color: gray;
+    padding: 30px 10px;
+    border-radius: 10px;
+    
+}
+
+.keyss{
+    margin-left: 40px;
+}
